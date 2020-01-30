@@ -1,0 +1,6 @@
+framework module ZXRollingView {
+  umbrella header "ZXRollingView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZXRollingView_Tests' do
+  pod 'ZXRollingView', :path => '../'
+  
+  
+end
