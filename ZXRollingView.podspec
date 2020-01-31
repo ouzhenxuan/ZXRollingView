@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'ZXRollingView/Classes/**/*'
+  s.swift_version = '5.1.3'
   
   # s.resource_bundles = {
   #   'ZXRollingView' => ['ZXRollingView/Assets/*.png']
