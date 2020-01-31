@@ -55,7 +55,7 @@ class ZXRollingView: UIView {
         
         
         let timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(autoScroll), userInfo: nil, repeats: true)
-        RunLoop.main.add(timer, forMode: .UITrackingRunLoopMode)
+        RunLoop.main.add(timer, forMode: .tracking)
     }
     
     @objc func autoScroll() {

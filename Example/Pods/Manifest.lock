@@ -1,5 +1,5 @@
 PODS:
-  - ZXRollingView (0.1.0)
+  - ZXRollingView (0.1.2)
 
 DEPENDENCIES:
   - ZXRollingView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZXRollingView: f465f2b4fb34391835bba34ac5915bd60bbefb53
+  ZXRollingView: a7a1969c7da5e6f2c91d3f04a8ec540a43850905
 
 PODFILE CHECKSUM: 7104fe744ddb2a7be338caa9801b25af4ae119e4
 
